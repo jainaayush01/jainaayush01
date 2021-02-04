@@ -81,7 +81,7 @@
 
 <br/>  
 
-<div align="center"></div>
+<div align="center"> Thanks for visiting! See you around</div>
 <br />
 
 ----
