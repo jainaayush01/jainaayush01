@@ -6,10 +6,10 @@
 ### <div align="center">I'm Aayush, a aspiring full-stack developer 👨‍💻 also a second year UG student🚀</div>  
   
 
-- 🔭 I’m currently working on [StructureX](https://github.com/jainaayush01/Structurex), [XMeme](https://github.com/jainaayush01/XMeme) and [SyntaxMeets](https://github.com/kothariji/SyntaxMeets)
+- 🔭 I’m currently working on [SyntaxMeets](https://github.com/kothariji/SyntaxMeets).
   
 
-- 🌱 I’m currently learning React and building projects on top of MERN stack  
+- 🌱 I’m currently learning React and building projects on top of MERN stack.
 <br/>  
 
 ## My Skill Set  
