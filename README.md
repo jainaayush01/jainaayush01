@@ -6,8 +6,9 @@
 ### <div align="center">I'm Aayush, a aspiring full-stack developer 👨‍💻 also a second year UG student🚀</div>  
   
 
-- 🔭 I’m currently working on [SyntaxMeets](https://github.com/kothariji/SyntaxMeets).
+- 🔭 I’m currently contibuting to on [SyntaxMeets](https://github.com/kothariji/SyntaxMeets).
   
+- 🐤 I'm currently working on my portfolio website and other side projects.
 
 - 🌱 I’m currently learning React and building projects on top of MERN stack.
 <br/>  
