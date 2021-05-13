@@ -5,12 +5,19 @@
 
 ### <div align="center">I'm Aayush, a aspiring full-stack developer 👨‍💻 also a second year UG student🚀</div>  
   
-
-- 🔭 I’m currently contibuting to on [SyntaxMeets](https://github.com/kothariji/SyntaxMeets).
   
-- 🐤 I'm currently working on my portfolio website and other side projects.
+- 🔭 I’m passionate about Full Stack Web Development & an Open Sourcer.  
+  
 
-- 🌱 I’m currently learning React and building projects on top of MERN stack.
+- 🌱 I’m currently learning about React.
+  
+
+- ❓ Ask me about anything related to MERN stack, DSA, Competitive Programming, OpenSource, Communities, etc.
+  
+
+- ⚡ Fun fact: I like to play Chess. [Add Me](https://www.chess.com/member/jainaayush01).
+  
+  
 <br/>  
 
 ## My Skill Set  
