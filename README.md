@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Aayush, a aspiring full-stack developer 👨‍💻 also a second year UG student🚀</div>  
+### <div align="center">My name is Aayush, I'm a 19 year old Sophomore student from India 🚀</div>  
   
   
-- 🔭 I’m passionate about Full Stack Web Development & an Open Sourcer.  
-  
-
-- 🌱 I’m currently learning about React.
+- 🔭 I’m an aspiring Software developer👨‍💻.
   
 
-- ❓ Ask me about anything related to MERN stack, DSA, Competitive Programming, OpenSource, Communities, etc.
+- 🌱 I’m currently diving deep into [web development](https://github.com/jainaayush01/projects) and also solving [DSA problems](https://github.com/jainaayush01/DSA-Solutions).
+  
+
+- ❓ Ask me about anything related to JavaScript, MERN stack, DSA, Competitive Programming, OpenSource, Communities, etc.
   
 
 - ⚡ Fun fact: I like to play Chess. [Add Me](https://www.chess.com/member/jainaayush01).
