@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">My name is Aayush, I'm a 19 year old Junior year CSE student from India 🚀</div>  
+### <div align="center">My name is Aayush, I'm a 20 year old Junior year CSE student from India 🚀</div>  
   
   
 - 🔭 I’m an aspiring Software developer👨‍💻.
